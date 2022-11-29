@@ -46,7 +46,7 @@
                                 <nav class="main-menu">
                                     <ul class="menu-area-main">
                                         <li class="active"> <a href="index.php">Home</a> </li>
-                                        <li> <a href="">About us</a> </li>
+                                        <li> <a href="">Course</a> </li>
                                         <li><a href="books.html">Our Books</a></li>
                                         <li><a href="contact.html">Contact us</a></li>
                                         <li class="mean-last">
